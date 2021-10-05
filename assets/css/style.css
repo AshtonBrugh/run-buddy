@@ -71,12 +71,19 @@ header {
   }
 
   /*Hero Style Start*/
+  /* home page hero */
   .hero {
       background-image: url("../images/hero-bg.jpeg");
       height: 600px;
       background-size: cover;
       background-position: center;
       position: relative;
+  }
+
+  /*secondary hero */
+  .hero-secondary {
+      background-color: black;
+      color: red;
   }
 
   .hero-form {
